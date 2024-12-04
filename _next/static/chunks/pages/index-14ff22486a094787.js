@@ -437,7 +437,7 @@
                             target: "_blank",
                             rel: "noreferrer",
                             alignSelf: "center",
-                            href: "https://isstudios.8thwall.app/SuiPugwif/",
+                            href: "https://isstudios.8thwall.app/",
                             children: (0,n.jsx)(l.zxk, {
                                 all: "unset",
                                 py: "1rem",
@@ -496,42 +496,42 @@
                             rowGap: ["1rem", "3rem"],
                             gridTemplateColumns: ["1fr", "1fr 1fr", "1fr 1fr 1fr 1fr"],
                             children: [(0,n.jsx)(l.A, {
-                                href: "https://dexscreener.com/sui/0xd7b55da72dca913b072a0e2842b44dbce68d9d88cc9b0626b1262659ce060c46",
+                                href: "https://dexscreener.com/",
                                 fontFamily: "Rubik",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 fontSize: ["1.2rem", "1.8rem"],
                                 children: "Dexscreener"
                             }), (0,n.jsx)(l.A, {
-                                href: "https://birdeye.so/token/0x2cd6f14a4b64c3a0fa9c644e8ed88d9c91d789a071886d67d24e6b435147063d::pugwif::PUGWIF?chain=sui",
+                                href: "https://birdeye.so/token/0x000000000000000000000000000000000000",
                                 fontFamily: "Rubik",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 fontSize: ["1.2rem", "1.8rem"],
                                 children: "BirdEYE"
                             }), (0,n.jsx)(l.A, {
-                                href: "https://www.geckoterminal.com/sui-network/pools/0x964b391c0255120984000735d381d62fe4608e5330ddd15042e41ad3fdab5f24?utm_source=coingecko&utm_medium=referral&utm_campaign=searchresults",
+                                href: "https://www.geckoterminal.com/",
                                 fontFamily: "Rubik",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 fontSize: ["1.2rem", "1.8rem"],
                                 children: "CoinGecko"
                             }), (0,n.jsx)(l.A, {
-                                href: "https://coinmarketcap.com/currencies/pugwifhat/",
+                                href: "https://coinmarketcap.com/currencies/",
                                 fontFamily: "Rubik",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 fontSize: ["1.2rem", "1.8rem"],
                                 children: "Coin Market Cap"
                             }), (0,n.jsx)(l.A, {
-                                href: "https://simpleswap.io/exchange?from=&to=sui",
+                                href: "https://simpleswap.io/exchange?from=&to=eth",
                                 fontFamily: "Rubik",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 fontSize: ["1.2rem", "1.8rem"],
                                 children: "SimpleSwap"
                             }), (0,n.jsx)(l.A, {
-                                href: "https://changenow.io/exchange?from=&to=sui",
+                                href: "https://changenow.io/exchange?from=&to=eth",
                                 fontFamily: "Rubik",
                                 target: "_blank",
                                 rel: "noreferrer",
@@ -543,7 +543,7 @@
                                 fontFamily: "Rubik",
                                 fontSize: ["1.2rem", "1.8rem"],
                                 gridColumn: ["unset", "span 2"],
-                                href: "https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3APUG+WIF+SUI",
+                                href: "https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3APUG+WIF+ETH",
                                 children: "PUGWIF Merch Store"
                             })]
                         })]
@@ -753,7 +753,7 @@
                                     children: (0,n.jsx)(l.P, {
                                         textDecoration: "underline",
                                         fontFamily: "Rubik",
-                                        children: "PUGWIF-SUISHI"
+                                        children: "PUGWIF"
                                     })
                                 }), (0,n.jsx)("a", {
                                     href: "https://aftermath.finance/pools/0xf709181d879565c7bb6f6df791616f14d8ee9af406c70ca7cfbebc38b6a8c1b6",
