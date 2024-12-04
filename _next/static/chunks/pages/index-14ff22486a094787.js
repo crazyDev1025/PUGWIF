@@ -586,7 +586,7 @@
                             display: ["none", "none", "flex"],
                             gap: "2rem",
                             children: [(0,n.jsx)(l.A, {
-                                href: "https://t.me/pugwifportal",
+                                href: "https://t.me/",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 children: (0,n.jsx)(l.zxk, {
@@ -607,7 +607,7 @@
                                     })
                                 })
                             }), (0,n.jsx)(l.A, {
-                                href: "https://x.com/SuiPugwif",
+                                href: "https://x.com/",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 children: (0,n.jsx)(l.zxk, {
@@ -1309,7 +1309,7 @@
                     children: [(0,n.jsx)(l.H2, {
                         fontSize: ["4rem", "4rem", "6rem"],
                         textAlign: "center",
-                        color: "#ffffff",
+                        color: "#123D84",
                         children: "Utility?"
                     }), (0,n.jsx)(l.P, {
                         fontSize: "2rem",
@@ -1345,7 +1345,7 @@
                             gap: "2rem",
                             justifyContent: ["center", "flex-start"],
                             children: [(0,n.jsx)(l.A, {
-                                href: "https://t.me/pugwifportal",
+                                href: "https://t.me/",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 children: (0,n.jsx)(l.zxk, {
@@ -1366,7 +1366,7 @@
                                     })
                                 })
                             }), (0,n.jsx)(l.A, {
-                                href: "https://x.com/SuiPugwif",
+                                href: "https://x.com/",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 children: (0,n.jsx)(l.zxk, {
